@@ -116,4 +116,4 @@ npm run dev
 
 ## 📹 Демонстрация
 
-Видео, демонстрирующее работоспособность прототипа: [Ссылка на Google Drive](ссылка_на_видео)
+Видео, демонстрирующее работоспособность прототипа: [Ссылка на Google Drive] https://drive.google.com/file/d/1JWrnTJCg3AinFrsmkh9HCnU_vRKKFzQL/view?usp=sharing
